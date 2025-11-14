@@ -20,7 +20,7 @@ export default function Hero(){
           <h3 className="font-semibold text-lg mt-2">Frontend Developer</h3>
           <p className="text-sm mt-3">I build responsive web apps using modern tools, focusing on performance and delightful UI.</p>
           <div className="mt-4 text-xs text-slate-600">📍 Nairobi • 📧 (use LinkedIn or GitHub)</div>
-        </motion.div>
+        </motion.div
       </div>
     </section>
   )
