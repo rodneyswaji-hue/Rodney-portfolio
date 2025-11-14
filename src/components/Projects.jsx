@@ -18,8 +18,8 @@ const projects = [
   },
  
   {
-    title: 'Coming Soon',
-    desc: 'Placeholder for future work — animations, accessibility case studies, and more.',
+    title: 'Phone Store',
+    desc: 'A modern, responsive landing page template with smooth animations and a clean design.',
     tech: ['React'],
     link: '#'
   }
