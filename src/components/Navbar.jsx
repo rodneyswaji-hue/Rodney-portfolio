@@ -11,7 +11,7 @@ export default function Navbar(){
           <div className="text-sm text-slate-600 ml-3">Creative Web Developer</div>
         </div>
         <div className="hidden md:flex gap-6 items-center text-sm">
-          <a href="#about" className="hover:text-brand-700"> About</a>
+          <a href="#about" className="hover:text-brand-700">About</a>
           <a href="#projects" className="hover:text-brand-700">Projects</a>
           <a href="#contact" className="hover:text-brand-700">Contact</a>
           <a href="https://github.com/rodneyswaji-hue" target="_blank" rel="noreferrer" className="px-4 py-2 rounded-lg bg-brand-500 text-white">GitHub</a>
