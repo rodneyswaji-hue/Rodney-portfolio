@@ -6,7 +6,7 @@ export default function Contact(){
     <section id="contact" className="mt-10 mb-8">
       <div className="bg-white p-6 rounded-2xl shadow-md">
         <h2 className="text-2xl font-semibold">Let’s build something together</h2>
-        <p className="mt-2 text-slate-700">I’m open to frontend roles and freelance projects. I reply quickly on GitHub and LinkedIn.</p>
+        <p className="mt-2 text-slate-700">I’m open to web development roles and freelance projects. I reply quickly on GitHub and LinkedIn.</p>
         <div className="mt-4 flex flex-col sm:flex-row gap-3">
           
           {/* FIXED EMAIL BUTTON */}
