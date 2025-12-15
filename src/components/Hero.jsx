@@ -17,7 +17,7 @@ export default function Hero(){
 
         <motion.div initial={{scale:0.98, opacity:0}} animate={{scale:1, opacity:1}} transition={{duration:0.6}} className="w-full md:w-1/3 bg-white rounded-2xl p-6 shadow-lg">
           <div className="text-sm text-slate-500">Snapshot</div>
-          <h3 className="font-semibold text-lg mt-2">Frontend Developer</h3>
+          <h3 className="font-semibold text-lg mt-2">Web Developer</h3>
           <p className="text-sm mt-3">I build responsive web apps using modern tools, focusing on performance and delightful UI.</p>
           <div className="mt-4 text-xs text-slate-600">📍 Nairobi • 📧 (use LinkedIn or GitHub)</div>
         </motion.div>
